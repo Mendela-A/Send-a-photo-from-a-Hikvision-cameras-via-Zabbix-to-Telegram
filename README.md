@@ -14,10 +14,8 @@ Python .env
     ZAB_IP=
     ZAB_USR=
     ZAB_PASSWD=
-    
     CAMS_USR=
     CAMS_PASSWD=
     CAMS_GROUP=
-    
     BOT_TOKEN=
     CHAT_ID=
