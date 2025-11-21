@@ -41,7 +41,7 @@ def main():
     load_dotenv()
     
     # Create and navigate to working directory
-    path = '.\\data'
+    path = '/tmp/data'
     os.makedirs(path, exist_ok=True)
     os.chdir(path)
 
