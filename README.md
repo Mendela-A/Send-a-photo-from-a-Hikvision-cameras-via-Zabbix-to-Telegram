@@ -9,3 +9,15 @@ Zabbix pre-configuration:
   Script parameters:
   the second parameter is {HOST.NAME},
   the third parameter is {ALERT.MESSAGE}
+
+Python .env
+    ZAB_IP=
+    ZAB_USR=
+    ZAB_PASSWD=
+    
+    CAMS_USR=
+    CAMS_PASSWD=
+    CAMS_GROUP=
+    
+    BOT_TOKEN=
+    CHAT_ID=
